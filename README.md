@@ -20,6 +20,7 @@ source .venv/bin/activate
 
 ```bash
 pip install openai-agents python-dotenv
+```
 
 ```bash
 pip freeze > requirements.txt
