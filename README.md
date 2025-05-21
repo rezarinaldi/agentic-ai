@@ -34,5 +34,4 @@ pip install -r requirements.txt
 
 ### Source
 
-- [OpenAI](https://pypi.org/project/openai/)
 - [OpenAI Agents SDK](https://github.com/openai/openai-agents-python)
